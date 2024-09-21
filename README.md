@@ -12,9 +12,12 @@ The mid-term model reduced error compared to the linear regression, providing ne
 
 In practice, both methods are very similar to the standard procedure. The main difference is the change in algorithm and its implementation. In conclusion, this study demonstrates that correction of station temperatures can provide fairly accurate temperature data for use in estimating PMI after only 4-5 hours of measurements on a death scene.
 
+## Preprint hyperlink
+You can access the preprint here: [Forensically useful mid-term and short-term temperature reconstruction for quasi-indoor death scenes]([https://doi.org/10.1093/fsr/owad049](https://doi.org/10.48550/arXiv.2409.09516))
+
 ## History
 This project was a rollercoaster ride of epic proportions, filled with both exhilarating highs and nerve-wracking lows. It was an ambitious endeavor from the start, and there were more than a few moments when I seriously feared it might end up in the dreaded “cancelled projects” folder. But, as they say, fortune favors the bold, and after navigating through a series of near disasters, we pulled it off. In the end, I consider this to be one of my greatest successes—proof that even when things look bleak, perseverance can lead to something truly remarkable.
 
 ## Disclaimer
-The article for this project is not yet published, and I don’t feel that the manuscript is quite ready for a pre-print just yet. However, in the near future, this repository will include the pre-print. R scripts and data are now avaliable in R-Laboratory. Python scripts and a GUI program (for non-technical users who are interested in exploring the results) are avalialbe in Python_software_beta_GUI. Python is needed to run our software. Executable version will be avaliable in future.
+The article for this project is not yet published. However, the preprint is now avaliable on-line; R scripts and data are now avaliable in R-Laboratory. Python scripts and a GUI program (for non-technical users who are interested in exploring the results) are avalialbe in Python_software_beta_GUI. Python is needed to run our software. Executable version will be avaliable in future.
 Only beta versions will be avaliable here, final version of software will be published as another project.
