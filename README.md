@@ -15,8 +15,6 @@ In practice, both methods are very similar to the standard procedure. The main d
 ## Preprint hyperlink
 You can access the preprint here: [Forensically useful mid-term and short-term temperature reconstruction for quasi-indoor death scenes](https://doi.org/10.48550/arXiv.2409.09516)
 
-You can access the full paper here: [Improving accuracy of age estimates for insect evidence—calibration of physiological age at emergence (k) using insect size but without “k versus size” model](https://doi.org/10.1093/fsr/owad049)
-
 ## History
 This project was a rollercoaster ride of epic proportions, filled with both exhilarating highs and nerve-wracking lows. It was an ambitious endeavor from the start, and there were more than a few moments when I seriously feared it might end up in the dreaded “cancelled projects” folder. But, as they say, fortune favors the bold, and after navigating through a series of near disasters, we pulled it off. In the end, I consider this to be one of my greatest successes—proof that even when things look bleak, perseverance can lead to something truly remarkable.
 
