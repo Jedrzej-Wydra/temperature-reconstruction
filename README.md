@@ -12,7 +12,7 @@ The mid-term model reduced error compared to the linear regression, providing ne
 
 In practice, both methods are very similar to the standard procedure. The main difference is the change in algorithm and its implementation. In conclusion, this study demonstrates that correction of station temperatures can provide fairly accurate temperature data for use in estimating PMI after only 4-5 hours of measurements on a death scene.
 
-## Preprint hyperlink
+## Preprint and full text hyperlink
 You can access the preprint here: [Forensically useful mid-term and short-term temperature reconstruction for quasi-indoor death scenes (arXiv)](https://doi.org/10.48550/arXiv.2409.09516)
 
 You can access the full text here: [Forensically useful mid-term and short-term temperature reconstruction for quasi-indoor death scenes (Science and Justice)](https://doi.org/10.1016/j.scijus.2024.12.004)
