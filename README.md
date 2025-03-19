@@ -19,7 +19,3 @@ You can access the full text here: [Forensically useful mid-term and short-term 
 
 ## History
 This project was a rollercoaster ride of epic proportions, filled with both exhilarating highs and nerve-wracking lows. It was an ambitious endeavor from the start, and there were more than a few moments when I seriously feared it might end up in the dreaded “cancelled projects” folder. But, as they say, fortune favors the bold, and after navigating through a series of near disasters, we pulled it off. In the end, I consider this to be one of my greatest successes—proof that even when things look bleak, perseverance can lead to something truly remarkable.
-
-## Disclaimer
-However, the preprint is now avaliable on-line; R scripts and data are now avaliable in R-Laboratory. Python scripts and a GUI program (for non-technical users who are interested in exploring the results) are avalialbe in Python_software_beta_GUI. Python is needed to run our software. Executable version will be avaliable in future.
-Only beta versions will be avaliable here, final version of software will be published as another project.
