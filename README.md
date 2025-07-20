@@ -1,6 +1,12 @@
 # Forensically useful mid-term and short-term temperature reconstruction for quasi-indoor death scenes
 #### authors: Jędrzej Wydra, Łukasz Smaga, Szymon Matuszewski
 
+## Short summary
+Implemented functional regression models in R and Python using Fourier basis expansion, concurrent regression, and residual error analysis to optimize short- and mid-term time-series reconstruction.
+
+## Technical summary
+Developed functional data analysis (FDA) workflows for temperature time-series, applying Fourier basis smoothing, concurrent functional linear models, and Bayesian residual modeling. Validated reconstruction accuracy through systematic train–test splits, resampling schemes, and performance metrics (MAPE, RMSE). Benchmarked FDA-based approaches against baseline OLS and direct mapping, optimizing basis dimensionality and parameter regularization for robust short-term predictions.
+
 ## Abstract
 While estimating postmortem interval (PMI) ambient temperature plays pivotal role, so its reconstruction is crucial for forensic scientists. The recommended procedure is to correct temperatures from the nearest meteorological station based on measurements from the death scene; typically applying linear regression. Recently, there were attempts to use different algorithms, which can improve that correction, for example GAM algorithm. Unfortunately, the improvements are usually a consequence of using more dependent variables than just the temperature from the death scene (e.g. humidity), which is impractical.
 
